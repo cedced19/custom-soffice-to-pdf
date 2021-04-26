@@ -1,6 +1,6 @@
 {
-    "name": "office-to-pdf",
-    "version": "4.0.0",
+    "name": "custom-soffice-to-pdf",
+    "version": "1.0.0",
     "description": "Converts office documents (buffer) like .doc .docx .ppt .pptx to pdf",
     "main": "index.js",
     "scripts": {
@@ -16,8 +16,8 @@
         "office",
         "libreoffice"
     ],
-    "author": "Janek Rahrt",
-    "license": "ISC",
+    "author": "Cédric JUNG <cedced19@gmail.com>",
+    "license": "MIT",
     "dependencies": {
         "temporary": "^0.0.8",
         "tmp": "^0.0.31"
