@@ -1,7 +1,7 @@
 custom-soffice-to-pdf
 =====
 
-Inspired from @janek26 's [office-to-pdf](https://www.npmjs.com/package/office-to-pdf) package.
+Inspired from [@janek26](https://github.com/janek26)'s [office-to-pdf](https://www.npmjs.com/package/office-to-pdf) package.
 
 LibreOffice required and more specifically `soffice`. 
 Test if the command `soffice` is available in your console or specify the command to run.
