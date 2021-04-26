@@ -41,6 +41,6 @@ Just pass another argument with the command to run instead of `soffice`
 ```js
 import toPdf from 'custom-soffice-to-pdf'
 
-var pdfBuffer = await toPdf(wordBuffer, 'c:\Program Files\LibreOffice\program\soffice')
+var pdfBuffer = await toPdf(wordBuffer, '"C:\\Program Files\\LibreOffice\\program\\soffice"')
 
 ```
